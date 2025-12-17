@@ -57,3 +57,5 @@ And spans between 01/12/2010 and 09/12/2011 (13 months) for a UK-based, register
 ### Recommendation
 
 To keep retaining customers, send promotional messages, offer discounts, and give early access to top customers, or best create a loyalty program
+
+[Cohort Analysis Video](https://youtu.be/fP4MhYzsaRY?si=fMmuEE1r6Vi2I6Ku)
